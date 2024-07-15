@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "941042457071",
+    "firebase_url": "https://enapp-41fdb.firebaseio.com",
+    "project_id": "enapp-41fdb",
+    "storage_bucket": "enapp-41fdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941042457071:android:7419cabd53b14f4a3bbe1a",
+        "android_client_info": {
+          "package_name": "net.necto68.enapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941042457071-l0t35q7j1hitobrqh1462gohgfbbhh21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.necto68.enapp",
+            "certificate_hash": "a61fcae1a13c3888c4319bee08dfd80c4dc2496d"
+          }
+        },
+        {
+          "client_id": "941042457071-rpn0gsj5ujeu4kfn2cib6babjf4cmmqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.necto68.enapp",
+            "certificate_hash": "8c44ce955f9b83eef1b520e663c069633eddc30c"
+          }
+        },
+        {
+          "client_id": "941042457071-r5d4q7lbere8r0ohj23s7c7ethva9sdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.necto68.enapp",
+            "certificate_hash": "c94046a4ae74a22e66a1e8018704d2becaef422c"
+          }
+        },
+        {
+          "client_id": "941042457071-m12oi4hlpm9fjvc5umjrf2sj0shli9bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVIJNkACAKDmiGFTBxe3egp_QoN-hOX_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941042457071-m12oi4hlpm9fjvc5umjrf2sj0shli9bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

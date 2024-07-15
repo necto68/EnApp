@@ -1,0 +1,3 @@
+export const UP_CHANNEL = 'UP_CHANNEL';
+export const HINT_CHANNEL = 'HINT_CHANNEL';
+export const LEVEL_STATE_CHANNEL = 'LEVEL_STATE_CHANNEL';
